@@ -1,4 +1,5 @@
  the first line should be added.
- the second line
- third line in c
+ the second line.
+ third line in d 
+ fourth line in d
  fourth line in c
