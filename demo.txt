@@ -1,0 +1,4 @@
+ the first line should be added.
+ the second line
+ third line in c
+ fourth line in c
