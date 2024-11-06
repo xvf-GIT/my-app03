@@ -1,1 +1,2 @@
  the first line should be added.
+ the second line.
